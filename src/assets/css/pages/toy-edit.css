@@ -1,0 +1,23 @@
+.toy-edit {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.toy-edit form {
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.toy-edit form label {
+    margin-top: 20px;
+}
+
+.toy-edit form button {
+    width: 50%;
+    margin-top: 40px;
+    align-self: center;
+}
